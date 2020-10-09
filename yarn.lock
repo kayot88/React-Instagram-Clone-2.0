@@ -2870,7 +2870,7 @@ etag@~1.8.1:
 
 event-stream@~3.3.0:
   version "3.3.4"
-  resolved "http://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
+  resolved "https://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
   dependencies:
     duplexer "~0.1.1"
     from "~0"
@@ -3504,9 +3504,9 @@ handy-log@^1.0.3:
     chalk "^2.1.0"
     chalk-animation "^1.2.0"
 
-handy-notification@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/handy-notification/-/handy-notification-1.2.1.tgz#16c27d25fbe86c383774c5563b3c882319e04107"
+handy-notification@1.2.8:
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/handy-notification/-/handy-notification-1.2.8.tgz#c8e8cc10fda91fd16ae254da10a6c6d416d18d68"
   dependencies:
     jquery "^3.2.1"
 
